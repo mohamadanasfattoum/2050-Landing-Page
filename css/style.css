@@ -34,4 +34,10 @@ body{
     padding: 15px 55px;
     border-radius: 40px;
     text-decoration: none;
+    color:  white;
+}
+
+.banner-btn:hover{
+    color: #6C63FF;
+    background-color: white;
 }
