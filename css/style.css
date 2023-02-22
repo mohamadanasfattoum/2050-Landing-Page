@@ -61,4 +61,15 @@ body{
 
 }
 .about-img{margin-left: -328px;
-}}
+}
+.service-backgrund{
+    background-color:#F3F9FB ;
+    width: 624px;
+    height: 624px;
+    border-radius: 50%;
+}
+.service-icon{color: white;
+background-color: #6C63FF;
+padding: 20px;
+border-radius: 50px;
+}
