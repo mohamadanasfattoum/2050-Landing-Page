@@ -8,7 +8,7 @@ body{
 .mynavbar{
     background-color: #4741AF;
 }
-.nav-item{padding: 0 20px;}
+.nav-item{padding: 0 10px;}
 
 .nav-link{
     color: white;
@@ -73,4 +73,16 @@ body{
 background-color: #6C63FF;
 padding: 20px;
 border-radius: 50px;
+}
+
+.mydiv{
+    background-color:#F3F9FB;
+}
+
+.banner-img-2{
+    margin-left: -130px;
+
+}
+.icon2{
+    color: #6C63FF;
 }
