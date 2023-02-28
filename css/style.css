@@ -59,6 +59,7 @@ body{
 
 .text-link{
     font-weight: 700;
+    text-decoration-line: none;
 
 }
 .about-img{margin-left: -328px;
@@ -85,4 +86,8 @@ border-radius: 50px;
 }
 .icon2{
     color: #6C63FF;
+}
+
+.product-card{
+    border-bottom: 3px solid #6C63FF;
 }
