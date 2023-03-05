@@ -113,3 +113,10 @@ border-radius: 50px;}
 .post-img{
     transition: all .3s;
 }
+
+.product-card:hover{
+    margin-top: 15px;
+}
+.product-card{
+    transition: all .3s;
+}
