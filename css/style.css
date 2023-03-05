@@ -91,3 +91,9 @@ border-radius: 50px;
 .product-card{
     border-bottom: 3px solid #6C63FF;
 }
+
+.feature-icon{
+    color: white;
+background-color: #6C63FF;
+padding: 20px;
+border-radius: 50px;}
