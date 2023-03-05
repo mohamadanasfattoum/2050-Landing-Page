@@ -120,3 +120,17 @@ border-radius: 50px;}
 .product-card{
     transition: all .3s;
 }
+
+.service-card:hover .service-icon{
+    margin-left: 80px;
+}
+.service-icon{
+    transition: all .6s;
+}
+
+.feature-span:hover .feature-icon{
+    margin: 30px;
+}
+.feature-icon{
+    transition: all .3s;
+}
